@@ -2,7 +2,7 @@
 
 The notebook contains all the useful types of plots, classifications and syntax on how to use them
 
-**Datasets Used: **
+**Datasets Used:**
 1. bike_share.csv
 2. college_data.csv
 3. countries-of-the-world.csv
